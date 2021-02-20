@@ -32,7 +32,7 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   /*Req 1*/
-  font-family: 'Andika' sans-serif;
+  font-family: 'Andika', sans-serif;
   background-image: url("homework4-2021/images/pigeon-background.JPEG");
   background-color:#DDDDDD;
 }
