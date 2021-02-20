@@ -32,7 +32,7 @@ body{
   background-position: center;
   /*Req 1*/
   font-family: 'Andika', sans-serif;
-  background-image: url("/Users/senaitdafa/Documents/Winter 2020/SI 339/hw4-2021-main/images/pigeon-background.JPEG");
+  background-image: url("images/pigeon-background.JPEG");
   background-color:#DDDDDD;
 }
 
@@ -137,6 +137,6 @@ footer{
   min-height: 75px;
   width:100%;
   position:absolute;
-  bottom:0;
+  margin: 0px;
 }
 
