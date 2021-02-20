@@ -36,9 +36,10 @@ body{
   background-color:#DDDDDD;
 }
 
-body h1{
+h1{
   color: #c12258;
   line-height: 2em;
+  font-size: 2em;
   text-align: center;
 
   /*Req 2*/
